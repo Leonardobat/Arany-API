@@ -6,9 +6,9 @@ I create the project as part of my study on programming techniques and as a chec
 It is a simple REST API. I don't intend to use many different packages, so the main point is to show off how I would (maybe not how I should) implement an API.
 It's a work in progress and shouldn't be seen as a template or boilerplate, however a study/draft of a REST API.
 The main body must change a lot as my skills evolve. Indeed these are a list of points I would like to implement on this project:
-- [] Kubernetes + Docker Deployment.
-- [] Authorization via JWT.
-- [] Secure Password Creation
+- [ ] Kubernetes + Docker Deployment.
+- [ ] Authorization via JWT.
+- [ ] Secure Password Creation
 
 ## Why Python?
 
